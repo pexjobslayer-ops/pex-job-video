@@ -1,5 +1,5 @@
 ---
-name: pex-jobslayer-vdo-performance-lab
+name: pex-job-video
 description: VDO ad performance analysis using the Pex JobSlayer Outcome-to-Variant engine for files or public URLs, diagnosing retention and conversion mechanics, mapping audience-message fit, and producing original improvement briefs and AI video prompts. Use for VDO ad analysis, creative testing, competitor research, storyboard planning, and performance diagnosis.
 ---
 
